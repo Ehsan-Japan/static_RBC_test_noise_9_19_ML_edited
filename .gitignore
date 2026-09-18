@@ -70,7 +70,7 @@ illustrator/*.svg
 
 # --- Illustrator sources and scratch figures ---
 illustrator/
-cross1.png
+scratch/
 
 # --- Agent orientation notes (local only) ---
 CLAUDE.md
@@ -78,3 +78,6 @@ CLAUDE.md
 # --- Paper / talk material, not code ---
 EXTRA/
 charge_sensor_deck/
+decks/
+literature/
+notes/
