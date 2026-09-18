@@ -1,0 +1,62 @@
+{
+  "p2l_1_probability": {
+    "text": "U-Net output\nP(transition line)",
+    "colour": "#7d2b3a",
+    "size": 10.5,
+    "bold": false
+  },
+  "p2l_2_threshold_0p4": {
+    "text": "P > 0.4  (chosen)\nF1@1 = 0.588",
+    "colour": "#C00000",
+    "size": 10.5,
+    "bold": true
+  },
+  "p2l_2_threshold_0p4_tau0": {
+    "text": "P > 0.4  (chosen)\nF1 = 0.283  (exact match)",
+    "colour": "#C00000",
+    "size": 10.5,
+    "bold": true
+  },
+  "p2l_3_threshold_0p9": {
+    "text": "P > 0.9\nF1@1 = 0.593",
+    "colour": "#111111",
+    "size": 10.5,
+    "bold": false
+  },
+  "p2l_3_threshold_0p9_tau0": {
+    "text": "P > 0.9\nF1 = 0.261  (exact match)",
+    "colour": "#111111",
+    "size": 10.5,
+    "bold": false
+  },
+  "p2l_4_tau0": {
+    "text": "τ = 0  (no band)\nF1@0 = 0.283",
+    "colour": "#111111",
+    "size": 10.5,
+    "bold": false
+  },
+  "p2l_5_tau1": {
+    "text": "τ = 1\nF1@1 = 0.588",
+    "colour": "#C00000",
+    "size": 10.5,
+    "bold": true
+  },
+  "p2l_6_tau3": {
+    "text": "τ = 3\nF1@3 = 0.802",
+    "colour": "#111111",
+    "size": 10.5,
+    "bold": false
+  },
+  "p2l_7_tolerance_curve": {
+    "text": "τ = 0 → 1 is the big jump;\nbeyond that the curve flattens",
+    "colour": "#111111",
+    "size": 10,
+    "bold": false
+  },
+  "p2l_9_tau_zoom": {
+    "text": "Same truth, same output — only the tolerance band grows",
+    "colour": "#111111",
+    "size": 14,
+    "bold": false
+  }
+}
