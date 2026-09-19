@@ -1,0 +1,45 @@
+We will write a draft to submit for Japanese Journal of applied physics.
+
+The code in this root directory includes the code where we got our results.
+
+However there is one caveat.
+
+We must re-run our program and make the codebase very simple since we will share it in GitHub.
+
+To this end first we need to choose a good name for our folder.
+
+Our work is on reconstructing charge stability diagrams using a probabilistic model.
+
+Furthermore,
+
+You can always go and look to "F:\Seminar Fujita\projects\static_RBC_test_noise_9_19_ML_edited\SSDM_deck\SSDMpresentation_Ehsan_2026.pptx"
+
+It gives you a broad aspect of what we have been doing.
+
+You must follow the sample put into "F:\Seminar Fujita\projects\static_RBC_test_noise_9_19_ML_edited\Japanese Journal of Applied Physics_2026.lnk"
+inside that "F:\Seminar Fujita\Conferences&Journals\Japanese Journal of Applied Physics_2026\Manuscript_final_claude.docx"
+
+You must alter it!!! 
+
+It is a shortcut to my previous journal paper draft.
+
+The paper we have to write must follow same structure and pattern and citation style.
+Furthermore, if possible write python programs to write the draft  inside "F:\Seminar Fujita\Conferences&Journals\Japanese Journal of Applied Physics_2026\Manuscript_final_claude.docx".
+
+For example it is convenient to put figures separately inside  F:\Seminar Fujita\Conferences&Journals\Japanese Journal of Applied Physics_2026\Figures
+Your figures must be inside this folder and each figure in separate image.
+It is a good practice to create a folder for each figure putting adobe illustrator and .png and .svg files..like name of it must be Figure_1_Constant_Capaciatnce model
+
+For the figures we can go with these figures used inside SSDM slides but as I said these results and not our final results.
+
+Hence first things first we must think about rerunning the edited  codebase again and since we will put the GitHub link in our paper its file structure must be pretty well!!!For academic use!!
+
+So first make codebase more structured and proper to use with other people.
+
+And re-run it but with fewer rays and samples like "F:\Seminar Fujita\projects\static_RBC_test_noise_9_19_ML_edited\results\4-5-6-7-8_rays_40-50-60_points_500_samples" ..initially run  it with  4 rays and 40 points 300 samples .
+
+Then show me the results and then let us discuss further!!!
+
+
+
+
